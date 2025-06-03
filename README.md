@@ -1,1 +1,1 @@
-# emotion-hate-detector
+# Emotion-Hate-Detector
